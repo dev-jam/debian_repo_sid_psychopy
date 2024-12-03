@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Tue, 03 Dec 2024 20:20:23 +0000
+MD5Sum:
+ af287524d847808bda008a1e8107a61c            13720 Packages
+ 6508acc1c95207dc5d3a1060a1ad3fff             3935 Packages.gz
+ 0330e41351f76775092a2ba613e6b2c4               38 Release
+SHA1:
+ a2f9ffefbccaa31959a0ef968ae0b52e8959b807            13720 Packages
+ 9410f3a5c91c3bd516217dedbd48751bde702ea5             3935 Packages.gz
+ acac598464c517c119743e228cdacd965762f884               38 Release
+SHA256:
+ 58f84518579aed185d72d4a29cd72159ac7d879cddc9330a5155e6a3dc1532a5            13720 Packages
+ 2eadbb6ab32a0c6d06165b3071c30650b16e262b01574a4864ab4a3ad95fea7e             3935 Packages.gz
+ 455798587aa93ab404b16d9ca188e62a258d34aa70949924ba751c6cd9a30bba               38 Release
+SHA512:
+ 1a176e9ed4219b639608a142d7de9b42e8085d8763ae0fcc39554be0da77da2e14ed9eb900b31fe43559b0270de650317078dd6b920b01d743c77edee38d6730            13720 Packages
+ 812a2882f5d8697e2dd93be35ba4490b1d5eb7ff82b1e35eda30f32f05598fa6ab7f392f82ab3e8301111c14557fb93b883fff72fbcc1a760676a6db669b00f8             3935 Packages.gz
+ a2772ccfbe0bcfece389b6d8b9b03f787bd22a6731b89fed61a9b1cc48f17a76d0f1a11b9e92ff76292aa2625ba26b730e26e52eb98c7a1beb5ef64542731252               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJIBAEBCgAyFiEEexp+HAVxGI9+atgPi19wb+ePuyQFAmdPaAcUHGRlYmlhbkBi
+b2Jyb3NiYWcubmwACgkQi19wb+ePuyRknQ//YcOPrX2zD5Dfw+NB+1SYrboDpSR0
+Hq83Pwcq+v1mx6JCnKiFP816c0xKqYPStk5rutvYKWqwglwRwZFzkGIM/2IWkVNF
+7FkIbUQHLsZ/bsAumjgyap+5pHqQYC4ZKMLsVG3tuMKQnni03F0tohYV9sjewRgW
+6GoezIDaR8ija9UxJVNMLGtsJfs6VVej+ZjZDaJhpZnbfkpuuafl/g+/3bOfuiyB
+Z9n6veJlFUPMobkN7a9z/4Qww0NPi6RJIBUFF02X3de1DNT1w8ZMqmTSDfYssVCD
+IB2xxAMvjSOX2mdy1esypzFZRihNivz7Hz7xuR2HXV9BH4GAVCVLBy5WhLZeNTDj
+P59uM7fCiIqUN3iAvYpVszKGmkOT9vMGFjFhGySxzRIqzmlh0/8mstb49lUvSJAr
+D6fAUx4achc4y1+7PROBBtWZ5GMTKq5RN/CydnuHhI9tCSn834/q3jrFwbD6BdWv
+WQri73FIb+9HddKsbMgm9kvHZ0fZCXv/FpouUnSJPbueMycBU6QBpbgIB4EuVzMH
+huZJVbUERXU97LmuOtBQdI49Jw2cWOrK7yhXaZJmh0aFlm0u3vJx9SfdlbGTvCXI
+EXvsdue6Y+X6rfq6jnvol+I26s8LmVsPGT46Qeihk/6BbtkTlMVgyKYAwkHB2pvA
+SBmhjMNNyW+GNn8=
+=jCjk
+-----END PGP SIGNATURE-----
