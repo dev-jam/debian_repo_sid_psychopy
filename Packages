@@ -1,37 +1,3 @@
-Package: python3-dukpy
-Version: 0:0.2.3-1~w2d0
-Architecture: amd64
-Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 7344
-Depends: python3 (<< 3.13), python3 (>= 3.12~), python3:any
-Filename: ./python3-dukpy_0.2.3-1~w2d0_amd64.deb
-Size: 1490164
-MD5sum: 75d4a625ede0884af0f2fb14fea10a23
-SHA1: 057aa74c696adddddd00902690689104147c29cd
-SHA256: e034bc107073228a5d2b49989f1c8cb3d0040c09450021453fcad96d9639c0d9
-Section: python
-Priority: optional
-Homepage: https://github.com/amol-/dukpy
-Description: Simple JavaScript interpreter for Python
- This package was automatically generated from the upstream wheel by wheel2deb.
-
-Package: python3-egi-pynetstation
-Version: 0:1.0.1-1~w2d0
-Architecture: all
-Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 141
-Depends: python3 (>= 3.8~), python3-ntplib (<< 0.5.0), python3-ntplib (>= 0.4.0), python3:any
-Filename: ./python3-egi-pynetstation_1.0.1-1~w2d0_all.deb
-Size: 26188
-MD5sum: 4a947134cb971ad5417949a44a4754a4
-SHA1: 673b07a215b3d5e0bc6077fce31864ba8b3a195e
-SHA256: b238bdc38db65c3c96f00c73a53b3d34109e30dece687a805111360d091fe494
-Section: python
-Priority: optional
-Homepage: https://egi-pynetstation.readthedocs.io/en/latest/
-Description: Magstim-EGI EEG amplifier NetStation API
- This package was automatically generated from the upstream wheel by wheel2deb.
-
 Package: python3-esprima
 Version: 0:4.0.1-1~w2d0
 Architecture: all
@@ -115,23 +81,6 @@ Section: python
 Priority: optional
 Homepage: https://github.com/azazel75/metapensiero.pj
 Description: Javascript for refined palates: a Python 3 to ES6 Javascript translator
- This package was automatically generated from the upstream wheel by wheel2deb.
-
-Package: python3-ntplib
-Version: 0:0.4.0-1~w2d0
-Architecture: all
-Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 36
-Depends: python3 (>= 3.6~), python3:any
-Filename: ./python3-ntplib_0.4.0-1~w2d0_all.deb
-Size: 6888
-MD5sum: aca8e0ee601841a08a639ae8db24bb57
-SHA1: 52becd6d2af1886add4e041f5dc212f1b5703d45
-SHA256: 00a6da592c762bca5fdee211c1d4dd979d78c11ad755e2cd9848fa1976359113
-Section: python
-Priority: optional
-Homepage: https://github.com/cf-natali/ntplib
-Description: Python NTP library
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-psychopy-brainproducts
@@ -276,23 +225,6 @@ SHA256: 52931d367d31fe0520e2f7befdcf5bf347e4e7aea1fb8aaf3c93a590671269dc
 Section: python
 Priority: optional
 Description: Stimuli useful for vision scientists.
- This package was automatically generated from the upstream wheel by wheel2deb.
-
-Package: python3-pypi-search
-Version: 0:2.0-1~w2d0
-Architecture: all
-Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 40
-Depends: python3-bs4 (>= 4.9.2), python3-html2text (>= 2020.1.16), python3-requests (>= 2.22.0), python3:any
-Filename: ./python3-pypi-search_2.0-1~w2d0_all.deb
-Size: 6992
-MD5sum: 275829d23a8c55e2c1ee8a8c95746ce9
-SHA1: 79343489f75733260728c907099b76d52e3bc3ea
-SHA256: 6bcd5e3903c289e5b4fe279b8f72fcb8a39cfb6674c911b8d9d976a10a47b6c5
-Section: python
-Priority: optional
-Homepage: https://github.com/asadmoosvi/pypi-search
-Description: Get Information on Python Packages From PyPI
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-titta
