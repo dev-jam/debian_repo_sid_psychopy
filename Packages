@@ -248,13 +248,13 @@ Package: python3-tittapy
 Version: 0:1.4.2-1~w2d0
 Architecture: amd64
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 23311
-Depends: python3 (<< 3.12), python3 (>= 3.11~), python3-numpy, python3:any
+Installed-Size: 23531
+Depends: python3 (<< 3.13), python3 (>= 3.12~), python3-numpy, python3:any
 Filename: ./python3-tittapy_1.4.2-1~w2d0_amd64.deb
-Size: 5587800
-MD5sum: 5566de487319a7c8c13e620c604604cc
-SHA1: a7f0e988c19606e6f358f690ca730d207ec53685
-SHA256: be97a1c80ec573d0b84ba5c7b8333d454fd0df6f17814b8f449340c47bd7f5f3
+Size: 5631720
+MD5sum: 277ad9c2aafbbd31150f792e025a8625
+SHA1: 812258389c9b48e23ea6bf26fe033817829cc686
+SHA256: 5559240334e9f3effe6ade694c950e8e3492b2deda021a387cff64b591cda5b0
 Section: python
 Priority: optional
 Homepage: https://github.com/dcnieho/Titta
