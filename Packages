@@ -2,13 +2,13 @@ Package: python3-dukpy
 Version: 0:0.2.3-1~w2d0
 Architecture: amd64
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 5738
-Depends: python3 (<< 3.12), python3 (>= 3.11~), python3:any
+Installed-Size: 7344
+Depends: python3 (<< 3.14), python3 (>= 3.13~), python3:any
 Filename: ./python3-dukpy_0.2.3-1~w2d0_amd64.deb
-Size: 939812
-MD5sum: 2c5f1375303b65c303bb34e9393b5554
-SHA1: 94e1ffacb458821b158c3a78c46863238b1d0bd0
-SHA256: 68d3090b21a0782fbc57600ece54ee0b021520220fa6b1b4916fd6554f74f131
+Size: 1490068
+MD5sum: 1611877f45fee990ce008bc8383c88b2
+SHA1: 2cb46337bccfa168dd281ae7cdcd27eb5bfd6c8b
+SHA256: a2f73c9d1a7cce798a6384c8bd3a52d4ffd84c68e0ef5cd719c929b0d3e2b63c
 Section: python
 Priority: optional
 Homepage: https://github.com/amol-/dukpy
