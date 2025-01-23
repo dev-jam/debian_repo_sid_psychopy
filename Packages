@@ -67,16 +67,16 @@ Description: Noise-robust fixation classification (I2MC).
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-imageio-ffmpeg
-Version: 0:0.5.1-1~w2d0
+Version: 1:0.6.0-1~w2d0
 Architecture: amd64
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 72146
-Depends: python3 (>= 3.7~), python3-setuptools, python3:any
-Filename: ./python3-imageio-ffmpeg_0.5.1-1~w2d0_amd64.deb
-Size: 19236456
-MD5sum: 05d6b9df885fac7edea0377608e7650d
-SHA1: 2ce8cf20ea00817fd0c2df321832ee87dfa2e5e7
-SHA256: a786f0d73e85df9d17a1a8957a7fee56ca0274302cb6e64c02dd9720cb25917e
+Installed-Size: 78024
+Depends: python3 (>= 3.9~), python3:any
+Filename: ./python3-imageio-ffmpeg_0.6.0-1~w2d0_amd64.deb
+Size: 21232000
+MD5sum: c2005a941446db0659926202346c4a9f
+SHA1: 1b05d8fd57a495583b68f211795294caf2837c13
+SHA256: f424e063e429ebd4df5c36a2651e892a36b6f8f3d0f906ee6469e285fd4fd8ee
 Section: python
 Priority: optional
 Homepage: https://github.com/imageio/imageio-ffmpeg
