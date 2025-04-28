@@ -117,19 +117,19 @@ Description: Extension package for PsychoPy which adds support for Brain Product
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-psychopy-eyelink
-Version: 0:2.1.1179.post1-1~w2d0
+Version: 0:2.1.1179.post3-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 880
-Depends: python3 (>= 3.7~), python3-psychopy-eyelink-coregraphics, python3-sr-research-pylink, python3:any
-Filename: ./python3-psychopy-eyelink_2.1.1179.post1-1~w2d0_all.deb
-Size: 237116
-MD5sum: 106d2b46b46bb78f6ca91e4c73cce724
-SHA1: f5709a03a7eb2f3a43ff55ca4f4acf5be84da07d
-SHA256: 546f6a75e42dbb7353a8d1c22ab578563ba931f47be423d68e6271c9369e9828
+Installed-Size: 881
+Depends: python3:any
+Filename: ./python3-psychopy-eyelink_2.1.1179.post3-1~w2d0_all.deb
+Size: 237148
+MD5sum: 1eba0a59d3b4d3817e19762c3d2df15c
+SHA1: 4652362653665f31b3d46fb1ee98182eb453661d
+SHA256: cc2e41314f0c2ab7b2f26c90f57c38e208a6cf8c7879d80d73a7d7f8f7a94490
 Section: python
 Priority: optional
-Description: Extension package for PsychoPy which adds support for EyeLink devices by SR Research.
+Description: None
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-psychopy-eyelink-coregraphics
