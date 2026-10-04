@@ -1,0 +1,297 @@
+Package: python3-astunparse
+Version: 0:1.6.3-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 64
+Depends: python3 (>= 3.5~), python3-six (<< 2.0), python3-six (>= 1.6.1), python3-wheel (<< 1.0), python3-wheel (>= 0.23.0), python3:any
+Filename: ./python3-astunparse_1.6.3-1~w2d0_all.deb
+Size: 12336
+MD5sum: f9cb8e7612d86ce99b4e118496381f02
+SHA1: 60300df81b98e0dd7df5785e79930ece5c71f122
+SHA256: 9c4a65787872481c98cdb875734a568ad76552b870391319b432dec1835ca03b
+Section: python
+Priority: optional
+Homepage: https://github.com/simonpercivall/astunparse
+Description: An AST unparser for Python
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-dukpy
+Version: 0:0.2.3-1~w2d0
+Architecture: amd64
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 7344
+Depends: python3 (<< 3.14), python3 (>= 3.13~), python3:any
+Filename: ./python3-dukpy_0.2.3-1~w2d0_amd64.deb
+Size: 1490068
+MD5sum: 1611877f45fee990ce008bc8383c88b2
+SHA1: 2cb46337bccfa168dd281ae7cdcd27eb5bfd6c8b
+SHA256: a2f73c9d1a7cce798a6384c8bd3a52d4ffd84c68e0ef5cd719c929b0d3e2b63c
+Section: python
+Priority: optional
+Homepage: https://github.com/amol-/dukpy
+Description: Simple JavaScript interpreter for Python
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-esprima
+Version: 0:4.0.1-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 297
+Depends: python3 (>= 3.3~), python3:any
+Filename: ./python3-esprima_4.0.1-1~w2d0_all.deb
+Size: 37768
+MD5sum: 1b3d8d2a9853f01345fd61d247dabe37
+SHA1: 7068a7c4ce13ce26da74f92da106f99e1f39a073
+SHA256: d4e9c7db8b12fdbf2e4f2e8b5c7f0066a6792752d93ada0bd0499f61da0eebfc
+Section: python
+Priority: optional
+Homepage: https://github.com/Kronuz/esprima-python
+Description: ECMAScript parsing infrastructure for multipurpose analysis in Python
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-ffpyplayer
+Version: 0:4.5.2-1~w2d0
+Architecture: amd64
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 82502
+Depends: python3 (<< 3.14), python3 (>= 3.13~), python3:any
+Filename: ./python3-ffpyplayer_4.5.2-1~w2d0_amd64.deb
+Size: 22144128
+MD5sum: 0e8e2a743c7e69e127089fd0f06311db
+SHA1: ffaf2e799e1e4e3f99a1cf9743997656a3e7ee59
+SHA256: 4b26009cc563a1e28e4b18138263c848ccfdafb3f5546b59345d0826bba3230d
+Section: python
+Priority: optional
+Homepage: https://matham.github.io/ffpyplayer/
+Description: A cython implementation of an ffmpeg based player.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-i2mc
+Version: 0:2.2.6-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 100
+Depends: python3-matplotlib, python3-numpy, python3-pandas, python3-scipy, python3:any
+Filename: ./python3-i2mc_2.2.6-1~w2d0_all.deb
+Size: 21416
+MD5sum: 016db3a423941fdc5906d3e1245dd319
+SHA1: 7f579b684e8c7409faede9b52052ce090618e4a9
+SHA256: 75850f73cabdfe05c7de0023f570dfe17d2a41124d49309a0d1409f089e3a91e
+Section: python
+Priority: optional
+Homepage: https://github.com/dcnieho/I2MC_Python
+Description: Noise-robust fixation classification (I2MC).
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-imageio-ffmpeg
+Version: 1:0.6.0-1~w2d0
+Architecture: amd64
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 78024
+Depends: python3 (>= 3.9~), python3:any
+Filename: ./python3-imageio-ffmpeg_0.6.0-1~w2d0_amd64.deb
+Size: 21232000
+MD5sum: c2005a941446db0659926202346c4a9f
+SHA1: 1b05d8fd57a495583b68f211795294caf2837c13
+SHA256: f424e063e429ebd4df5c36a2651e892a36b6f8f3d0f906ee6469e285fd4fd8ee
+Section: python
+Priority: optional
+Homepage: https://github.com/imageio/imageio-ffmpeg
+Description: FFMPEG wrapper for Python
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-javascripthon
+Version: 0:0.13-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 1815
+Depends: python3 (>= 3.7~), python3-dukpy (<= 0.2.3-+), python3-setuptools, python3:any
+Filename: ./python3-javascripthon_0.13-1~w2d0_all.deb
+Size: 334668
+MD5sum: 8ebcfe889a6b155306d0fc49450b193e
+SHA1: 4974d0eec2a8600ef3c305ad4f4a5b6906ca9bb5
+SHA256: bbaa4125c56bb341cccd74bd2ec643d2b34e8c67b200965a0387e34319ed6652
+Section: python
+Priority: optional
+Homepage: https://github.com/azazel75/metapensiero.pj
+Description: Javascript for refined palates: a Python 3 to ES6 Javascript translator
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-brainproducts
+Version: 0:0.0.1-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 114
+Depends: python3 (>= 3.7~), python3-serial, python3:any
+Filename: ./python3-psychopy-brainproducts_0.0.1-1~w2d0_all.deb
+Size: 21508
+MD5sum: 65bfe01e324f78d5e1f8de6c42debe37
+SHA1: 3b07414c229ac0236cd5e3241628a87570106509
+SHA256: 2b834c1237c556a2502fa103865684d808f8dd4673682a42c3f419208f124d8b
+Section: python
+Priority: optional
+Description: Extension package for PsychoPy which adds support for Brain Products GmbH devices.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-eyelink
+Version: 0:2.1.1179.post3-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 881
+Depends: python3:any
+Filename: ./python3-psychopy-eyelink_2.1.1179.post3-1~w2d0_all.deb
+Size: 237148
+MD5sum: 1eba0a59d3b4d3817e19762c3d2df15c
+SHA1: 4652362653665f31b3d46fb1ee98182eb453661d
+SHA256: cc2e41314f0c2ab7b2f26c90f57c38e208a6cf8c7879d80d73a7d7f8f7a94490
+Section: python
+Priority: optional
+Description: None
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-eyelink-coregraphics
+Version: 0:2.1.1179.0-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 50
+Depends: python3 (>= 3.7~), python3-sr-research-pylink, python3:any
+Filename: ./python3-psychopy-eyelink-coregraphics_2.1.1179.0-1~w2d0_all.deb
+Size: 9928
+MD5sum: d7d7ea27c9955f72f9da3df48238cbfa
+SHA1: a93e82017f74de0a08d60b162460abec5960d55e
+SHA256: bc64b20f9b680ebd9ff3fd9edf097a2f1baec29aab8b05147e5e90f3ae712557
+Section: python
+Priority: optional
+Description: Implementation of the EyeLink core graphics set of handlers for PsychoPy.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-eyetracker-sr-research
+Version: 0:0.0.4-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 221
+Depends: python3 (>= 3.7~), python3-sr-research-pylink, python3:any
+Filename: ./python3-psychopy-eyetracker-sr-research_0.0.4-1~w2d0_all.deb
+Size: 36864
+MD5sum: 4c3fae820aefd8e01de2e040039f3d6f
+SHA1: 77e040e064dc6f09fa8f52d98a784abf9c4f2564
+SHA256: d7ffc3707c108ea4790882432d3a8efe884f902bada60a6fd53bc5087f7cc902
+Section: python
+Priority: optional
+Description: Extension package for PsychoPy which adds support for SR Research eyetrackers (via ioHub).
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-legacy-mic
+Version: 0:0.0.1.post1-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 140
+Depends: python3 (>= 3.7~), python3-numpy, python3-psychopy-pyo, python3-scipy, python3:any
+Filename: ./python3-psychopy-legacy-mic_0.0.1.post1-1~w2d0_all.deb
+Size: 29300
+MD5sum: b029d50a01f7d21806236e8e66485826
+SHA1: b1bb5484071e5cb8c5eb1e90e8adb32c527b6cc0
+SHA256: 93056c537cd06dc942c46a6dca9287d7ca854cefeaaceafeac57800e2d6ed746
+Section: python
+Priority: optional
+Description: Extension that enables audio capture and analysis using Pyo.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-mri-emulator
+Version: 0:0.0.2-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 105
+Depends: python3:any
+Filename: ./python3-psychopy-mri-emulator_0.0.2-1~w2d0_all.deb
+Size: 19684
+MD5sum: 5b94bbafe460ce8a569ab81467816d09
+SHA1: 865aa0144a1becd9046ed786eb49d83ad096b253
+SHA256: 4509f6e769369273b79a7489c49667d7dbd4c2eb7373de366bcd9b60dc4bedf9
+Section: python
+Priority: optional
+Description: Software emulator for fMRI machines.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-pyo
+Version: 0:0.0.1-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 110
+Depends: python3 (>= 3.7~), python3-numpy, python3-pyo, python3:any
+Filename: ./python3-psychopy-pyo_0.0.1-1~w2d0_all.deb
+Size: 21224
+MD5sum: 44e8aac5f1627e1eab5982475cc6894e
+SHA1: 286c5750cf75b7643e8afa2ffa8827c9c8e7cbfe
+SHA256: 8fd2c6a8135c3f82cc67cd440c862c80735a9ac13460d9fe6e164370bf4354b4
+Section: python
+Priority: optional
+Description: Extension for using Pyo for audio playback.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-sounddevice
+Version: 0:0.0.1-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 116
+Depends: python3 (>= 3.7~), python3-numpy, python3-sounddevice, python3-soundfile, python3:any
+Filename: ./python3-psychopy-sounddevice_0.0.1-1~w2d0_all.deb
+Size: 22428
+MD5sum: 1607f52f7388b5046af57343c751aa18
+SHA1: 4a9fd044f39eeaaaf3612d9663e0a3d586d95055
+SHA256: 2b61ca269fe569d5a0004bcb3794f622b387f74284c0725408470ace985cacfd
+Section: python
+Priority: optional
+Description: Extension for using SoundDevice for audio playback.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-psychopy-visionscience
+Version: 0:0.0.7-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 585
+Depends: python3 (>= 3.7~), python3:any
+Filename: ./python3-psychopy-visionscience_0.0.7-1~w2d0_all.deb
+Size: 210896
+MD5sum: 7e2a15eb882f7e2a816b128bd2f48cd8
+SHA1: c63844533f2c164431943c09c86c8e20993344f5
+SHA256: 52931d367d31fe0520e2f7befdcf5bf347e4e7aea1fb8aaf3c93a590671269dc
+Section: python
+Priority: optional
+Description: Stimuli useful for vision scientists.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-titta
+Version: 0:2.1.0-1~w2d0
+Architecture: all
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 233
+Depends: python3-h5py, python3-numpy, python3-pandas, python3-tittapy, python3-websocket, python3:any
+Filename: ./python3-titta_2.1.0-1~w2d0_all.deb
+Size: 39940
+MD5sum: e78c77c054ed251b3e11f7f4696572ab
+SHA1: a648baffbc6e9e4f7c277eefc0673f6fbbde7fc8
+SHA256: 40545a1f9c594dcb04b3012e654af55d7fa725cc9e65fe97ebe652e118f217bc
+Section: python
+Priority: optional
+Homepage: https://github.com/marcus-nystrom/Titta
+Description: Titta is a toolbox for using eye trackers from Tobii with Python, specifically offering integration with PsychoPy.
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
+Package: python3-tittapy
+Version: 0:1.4.2-1~w2d0
+Architecture: amd64
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 23531
+Depends: python3 (<< 3.14), python3 (>= 3.13~), python3-numpy, python3:any
+Filename: ./python3-tittapy_1.4.2-1~w2d0_amd64.deb
+Size: 5628040
+MD5sum: a259a3acac8e45130228a9b8b28e8cc3
+SHA1: 2b133a889a2f5ebe98d4b6031b374241bcd0d6a4
+SHA256: aad49edd41060c74cd4deabedd25ba00f26a25f777ab0e21044a40d17c4041f3
+Section: python
+Priority: optional
+Homepage: https://github.com/dcnieho/Titta
+Description: Interface to Tobii eye trackers using Tobii Pro SDK
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
